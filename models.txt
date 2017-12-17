@@ -1,0 +1,10 @@
+1.Single Namespace
+2. Resource Definition
+
+"Class Definition":
+    Assets
+    Transactions
+    Participants
+Events
+Enumerated
+Concepts
